@@ -1,0 +1,53 @@
+body{
+  background:linear-gradient(to right,rgb(237, 159, 172),rgb(48, 115, 137)) ;
+}
+.mainDiv{
+  background: white;
+ border-radius: 10px;
+ height: 30rem;
+ width: 30rem;
+ margin-top: 5rem;
+ opacity: 70%;
+}
+.input
+{
+  height: 2rem;
+  width: 15rem;
+  border-top: 0px;
+  border-left: 0px;
+  border-right: 0px;
+}
+.submitbutton
+{
+  border-radius:30px ;
+  border: 0px;
+  height: 30px;
+  width: 70px;
+  background: linear-gradient(to right,rgb(123, 216, 123),rgb(62, 196, 62),rgb(10, 200, 10));
+  color: white;
+  box-shadow: 0px 0px 8px 2px rgb(56, 144, 56);
+}
+.listdataDiv
+{
+  list-style: none;
+  font-size: large;
+  border-width: 10px;
+  width: 20rem;
+}
+.deletebutton
+{
+  border-radius: 5px;
+  border-width: 0px;
+  width: 4.5rem;
+  height: 1.4rem;
+  color:white;
+  background: linear-gradient(to left,rgb(237, 159, 172),rgb(48, 115, 137));
+  float:right;
+}
+li{
+font-style: initial;
+font-family: Arial, Helvetica, sans-serif;
+padding-bottom:10px ;
+
+
+}
